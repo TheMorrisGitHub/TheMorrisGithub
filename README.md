@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td>
-        <img src="terminal.gif" alt="Mi Terminal en Acción" width="700">
+        <img src="https://imgur.com/i8vh0VX.gif" alt="Terminal About Me" width="700">
       </td>
       <td>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Coding GIF" width="250">
