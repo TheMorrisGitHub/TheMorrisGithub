@@ -3,19 +3,17 @@
 <h1 align="center">Hi 👋, I'm Morris</h1>
 
 
-<table>
-<tr>
-<td>
-    <h2>💫 About Me:</h2>
-    🚀 I’m currently working on Power BI and automation projects.<br><br>
-    🌱 Learning Python, SQL and Git.<br><br>
-</td>
-<td>
-    <img alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
-</td>
-</tr>
-</table>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="text-align: left">
+        <h2>💫 About Me:</h2>
+        🚀 I’m currently working on Power BI and automation projects.<br><br>
+        🌱 Learning Python, SQL and Git.<br><br>
+    </div>
+    <div style="text-align: right">
+        <img alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
+    </div>
+</div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
@@ -51,3 +49,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=themorrisgithub&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themorrisgithub/themorrisgithub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themorrisgithub/themorrisgithub/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/themorrisgithub/themorrisgithub/output/github-snake.svg" />
+</picture>
+</div>
+
+
