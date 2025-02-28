@@ -7,11 +7,15 @@
   <table>
     <tr>
       <td>
+        <a href="https://github.com/TheMorrisGitHub">
         <img src="https://imgur.com/i8vh0VX.gif" alt="Terminal About Me" width="700">
+        </a> 
       </td>
       <td>
+        <a href="https://github.com/TheMorrisGitHub">
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Coding GIF" width="250">
-      </td>
+        </a>
+        </td>
     </tr>
   </table>
 </div>
@@ -54,9 +58,10 @@
     </a>
   </div>
   <br>
-
+  <a href="https://github.com/TheMorrisGitHub">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=themorrisgithub&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+  </a>
+  </p>
 
 <hr>
 
