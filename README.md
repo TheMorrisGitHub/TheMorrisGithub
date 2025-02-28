@@ -2,18 +2,25 @@
 
 <h1 align="center">Hi 👋, I'm Morris</h1>
 
+<table border="0" cellspacing="0" cellpadding="0" style="width:100;">
+  <tr>
+    <!-- Columna de texto -->
+    <td valign="top">
+      <h2>💫 About Me:</h2>
+      🚀 I’m currently working on Power BI and automation projects.<br><br>
+      🌱 Learning Python, SQL and Git.<br><br>
+    </td>
+    <!-- Columna de imagen -->
+    <td valign="top" align="right">
+      <img 
+        alt="Coding"
+        width="250"
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif"
+      >
+    </td>
+  </tr>
+</table>
 
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="text-align: left">
-        <h2>💫 About Me:</h2>
-        🚀 I’m currently working on Power BI and automation projects.<br><br>
-        🌱 Learning Python, SQL and Git.<br><br>
-    </div>
-    <div style="text-align: right">
-        <img alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
-    </div>
-</div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
