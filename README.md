@@ -2,26 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Morris</h1>
 
-<table border="0" cellspacing="0" cellpadding="0" style="width:100;">
-  <tr>
-    <!-- Columna de texto -->
-    <td valign="top">
-      <h2>💫 About Me:</h2>
-      🚀 I’m currently working on Power BI and automation projects.<br><br>
-      🌱 Learning Python, SQL and Git.<br><br>
-    </td>
-    <!-- Columna de imagen -->
-    <td valign="top" align="right">
-      <img 
-        alt="Coding"
-        width="250"
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif"
-      >
-    </td>
-  </tr>
-</table>
 
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="terminal.gif" alt="Mi Terminal en Acción" width="700">
+      </td>
+      <td>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIwd2l1cHJqeWh6YnJwNDJ0YTgzY2Y2bGJwenc2cXRsZDFkZTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Coding GIF" width="250">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <h2 align="center"> 💻 Tech Stack 💻</h2>
