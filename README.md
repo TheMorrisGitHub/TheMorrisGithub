@@ -20,6 +20,7 @@
   </table>
 </div>
 
+<!-- #Get your own terminal at https://www.terminalgif.com/ -->
 
 <h2 align="center"> 💻 Tech Stack 💻</h2>
 
