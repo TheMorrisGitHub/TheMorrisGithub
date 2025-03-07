@@ -20,7 +20,9 @@
   </table>
 </div>
 
-<!-- #Get your own terminal at https://www.terminalgif.com/ -->
+<!-- Get your own terminal at https://www.terminalgif.com/ -->
+<!-- Snake at https://profile-readme-generator.com/ -->
+
 
 <h2 align="center"> 💻 Tech Stack 💻</h2>
 
